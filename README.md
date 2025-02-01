@@ -1,4 +1,5 @@
-# Todo-CLI-terminal-
+# Todo-CLI-terminal
 
+node module : readline
 
 Run : node "fileName"
